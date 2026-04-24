@@ -61,6 +61,11 @@ You can provide your API credentials (in unix & macOS environments) when executi
 APIKEY="yourkeyhere" APISECRET="yoursecrethere" npx ts-node src/exchanges/binance/account-events/log-account-events.ts
 ```
 
+
+## AI Trading Bots
+
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
+
 ## Contributing
 
 PRs for various concepts welcome. Typescript preferred, but plain javascript is also OK.
